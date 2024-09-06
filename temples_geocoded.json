@@ -1,0 +1,254 @@
+[
+    {
+        "name": "1",
+        "location": "Karpaka Vinayakar Temple"
+    },
+    {
+        "name": "2",
+        "location": "Ucchi Pillayar Temple"
+    },
+    {
+        "name": "3",
+        "location": "Manakula Vinayagar Temple"
+    },
+    {
+        "name": "4",
+        "location": "Uchchhishta Ganapathy Temple"
+    },
+    {
+        "name": "5",
+        "location": "Sri Poyyamozhi Vinayagar Temple"
+    },
+    {
+        "name": "6",
+        "location": "Meenakshi Temple",
+        "coordinates": [
+            9.91965965,
+            78.11930856623903
+        ]
+    },
+    {
+        "name": "7",
+        "location": "Adi vinayagar Temple"
+    },
+    {
+        "name": "8",
+        "location": "Abhishtavaradha Ganapathi Temple"
+    },
+    {
+        "name": "9",
+        "location": "Naramuga Vinayakar Temple"
+    },
+    {
+        "name": "10",
+        "location": "Ganapatheeswarar Temple"
+    },
+    {
+        "name": "11",
+        "location": "Khabartheesar Karpaga Nathar Temple"
+    },
+    {
+        "name": "12",
+        "location": "Eachanari Vinayagar Temple",
+        "coordinates": [
+            10.9239252,
+            76.98245041705042
+        ]
+    },
+    {
+        "name": "13",
+        "location": "Puliakulam Vinayakar Temple"
+    },
+    {
+        "name": "14",
+        "location": "Sree Vigneswarar Temple"
+    },
+    {
+        "name": "15",
+        "location": "Periya Uchipillaiyar Temple"
+    },
+    {
+        "name": "16",
+        "location": "Sri Maha Ganapathi Temple"
+    },
+    {
+        "name": "17",
+        "location": "Arulmigu Prasanna Vinayagar Temple"
+    },
+    {
+        "name": "18",
+        "location": "Jambhulinga Vinayagar Temple"
+    },
+    {
+        "name": "19",
+        "location": "Panchamuga Vinayagar Temple"
+    },
+    {
+        "name": "1",
+        "location": "Kuzhanthai Velappar Temple"
+    },
+    {
+        "name": "2",
+        "location": "Sri Navaneethaswara Swamy Temple"
+    },
+    {
+        "name": "3",
+        "location": "Marudamalai Subramanya Swamy Temple"
+    },
+    {
+        "name": "4",
+        "location": "Kumarakkottam Subramanya Swamy Temple"
+    },
+    {
+        "name": "5",
+        "location": "Valliyur Subramanya Swamy Temple[46]"
+    },
+    {
+        "name": "6",
+        "location": "Vallakkottai Murugan Temple"
+    },
+    {
+        "name": "7",
+        "location": "Kandaswamy Temple"
+    },
+    {
+        "name": "7a",
+        "location": "Sri Subramaniya Swamy Temple",
+        "coordinates": [
+            13.106845100000001,
+            80.2069649141875
+        ]
+    },
+    {
+        "name": "8",
+        "location": "Shanmuganathan Temple"
+    },
+    {
+        "name": "9",
+        "location": "Mayilam Murugan Temple"
+    },
+    {
+        "name": "10",
+        "location": "Pazhani Aandavar Temple",
+        "coordinates": [
+            12.84111,
+            79.7
+        ]
+    },
+    {
+        "name": "11",
+        "location": "Sri Vetri Velayudhaswami Temple"
+    },
+    {
+        "name": "12",
+        "location": "Thindal Murugan Temple",
+        "coordinates": [
+            11.3197451,
+            77.6759378
+        ]
+    },
+    {
+        "name": "13",
+        "location": "Arulmigu Subramanyaswamy Thirukovil"
+    },
+    {
+        "name": "14",
+        "location": "Arulmigu Balamurugan Temple"
+    },
+    {
+        "name": "15",
+        "location": "Muthu Kumaraswamy Temple"
+    },
+    {
+        "name": "16",
+        "location": "Siragiri Dandayudhapani"
+    },
+    {
+        "name": "17",
+        "location": "Velayudhasamy Thirukoil"
+    },
+    {
+        "name": "18",
+        "location": "Balasubramaniya Murugan Temple"
+    },
+    {
+        "name": "19",
+        "location": "Arulmigu Balamurugan Temple"
+    },
+    {
+        "name": "20",
+        "location": "Rajendra Chozheewarar Temple"
+    },
+    {
+        "name": "21",
+        "location": "Sri Kolanjiappar Temple"
+    },
+    {
+        "name": "22",
+        "location": "Uthanda Velayudhaswamy temple, Uthiyur"
+    },
+    {
+        "name": "23",
+        "location": "Balasubramaniyar Temple, Siruvaapuri"
+    },
+    {
+        "name": "1",
+        "location": "Suryanaar Temple"
+    },
+    {
+        "name": "2",
+        "location": "Agneeswarar Temple",
+        "coordinates": [
+            10.5088451,
+            79.6934454
+        ]
+    },
+    {
+        "name": "3",
+        "location": "Kailasanathar Temple",
+        "coordinates": [
+            8.7224288,
+            77.83084571414474
+        ]
+    },
+    {
+        "name": "4",
+        "location": "Vaitheeswaran Temple"
+    },
+    {
+        "name": "5",
+        "location": "Tirunageswaram Nageswarar Temple"
+    },
+    {
+        "name": "6",
+        "location": "Tirunallaru Darbaaranyeswarar Temple"
+    },
+    {
+        "name": "7",
+        "location": "Keezhperumpallam Temple"
+    },
+    {
+        "name": "8",
+        "location": "Abathsahayeswarar Temple"
+    },
+    {
+        "name": "9",
+        "location": "Tiruvenkadu Swetaranyeswarar Temple"
+    },
+    {
+        "name": "1",
+        "location": "Kuchanuraan Temple, Sri Mayakoothar Devasthanams, Perungulam"
+    },
+    {
+        "name": "2",
+        "location": "Navapasanam Devipattinam Temple"
+    },
+    {
+        "name": "3",
+        "location": "Saneeswarar Tirukkoil"
+    },
+    {
+        "name": "4",
+        "location": "Sri Vasishteswarar Temple"
+    }
+]
